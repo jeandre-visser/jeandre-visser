@@ -1,16 +1,18 @@
-### Hi there 👋
+### Welcome to my Github! 👋
 
-<!--
-**jeandre-visser/jeandre-visser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is Jeandre and I am a graduate from the [Lighthouse Labs](https://www.lighthouselabs.ca/) web development program where I learned:
+- JavaScript
+- HTML & CSS
+- ReactJS
+- Material UI, SASS, Bootstrap
+- NodeJS
+- Express
+- PostgreSQL
+- Git
+- Ruby & Ruby on Rails
+- Cypress, Jest, Rspec, Storybook
 
-Here are some ideas to get you started:
+#### 🌱  I am continuing to expand my knowledge in these languages as well as learning new ones! I am open to job opportunities related to Full-Stack Developer, Front-End Developer, or Back-End Developer roles. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :clipboard: Check out my [Resume](https://resume.creddle.io/resume/9fih5w59z8y)!
+#### 📫 Contact me via email at jeandrev1414@gmail.com
