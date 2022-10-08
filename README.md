@@ -43,4 +43,6 @@
 #### 📫 Contact me via email at jeandrev1414@gmail.com
 
 
-### :fire: My Stats :
+### :fire: My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeandre-visser&theme=light&background=000000)](https://git.io/streak-stats)
+
