@@ -2,6 +2,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>
 </div>
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 
 #### My name is Jeandre and I am a graduate from the [Lighthouse Labs](https://www.lighthouselabs.ca/) web development program. 
 
