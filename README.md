@@ -44,5 +44,5 @@
 
 
 ### :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeandre-visser&theme=light&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeandre-visser&theme=gruvbox_duo&border_radius=6)](https://git.io/streak-stats)
 
