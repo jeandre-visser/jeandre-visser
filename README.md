@@ -41,3 +41,6 @@
 
 #### :clipboard: Check out my [Resume](https://resume.creddle.io/resume/9fih5w59z8y)!
 #### 📫 Contact me via email at jeandrev1414@gmail.com
+
+
+### :fire: My Stats :
