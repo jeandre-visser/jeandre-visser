@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
+
 ### Welcome to my Github! 👋
 
 #### My name is Jeandre and I am a graduate from the [Lighthouse Labs](https://www.lighthouselabs.ca/) web development program. 
