@@ -37,7 +37,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
-#### 🌱  I am continuing to expand my knowledge in these languages as well as learning new ones! I am open to job opportunities related to Full-Stack Developer, Front-End Developer, UI/UX Designer, or Back-End Developer roles. 
+#### 🌱  I am continuing to expand my knowledge in these languages as well as learning new ones! I am open to job opportunities related to Full-Stack Developer or Front-End Developer. 
 
 #### :clipboard: Check out my [Resume](https://resume.creddle.io/resume/9fih5w59z8y)!
 #### 📫 Contact me via email at jeandrev1414@gmail.com
