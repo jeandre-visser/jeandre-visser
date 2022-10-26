@@ -14,9 +14,9 @@
 
 #### My name is Jeandre and I am a graduate from the [Lighthouse Labs](https://www.lighthouselabs.ca/) web development program!
 
-#### Currently learning:
+### Currently learning:
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### My Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
