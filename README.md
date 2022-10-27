@@ -50,7 +50,7 @@
 ![Eslint](https://img.shields.io/badge/-eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 
-#### 🌱  I am continuing to expand my knowledge in these languages as well as learning new ones! I am open to job opportunities related to Full-Stack Developer or Front-End Developer. 
+#### 🌱  I am continuing to expand my knowledge in these languages as well as learning new ones! I am open to job opportunities related to Full-Stack Development or Front-End Development. 
 
 #### :clipboard: Check out my [Resume](https://resume.creddle.io/resume/9fih5w59z8y)!
 #### 📫 Contact me via email at jeandrev1414@gmail.com
