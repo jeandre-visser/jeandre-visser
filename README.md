@@ -47,6 +47,7 @@
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/-chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Eslint](https://img.shields.io/badge/-eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 #### 🌱  I am continuing to expand my knowledge in these languages as well as learning new ones! I am open to job opportunities related to Full-Stack Developer or Front-End Developer. 
 
