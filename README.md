@@ -9,8 +9,8 @@
     <a href="http://www.linkedin.com/in/jeandre-visser">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-     <a href="http://www.linkedin.com/in/jeandre-visser">
-      <img src="https://img.shields.io/badge/my%20portfolio%20site-FF9E0F?style=for-the-badge&logo=my-portfolio&logoColor=white" alt="LinkedIn Badge"/>
+     <a href="https://jv-portfolio.netlify.app/">
+      <img src="https://img.shields.io/badge/my%20portfolio%20site-FF9E0F?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
 
