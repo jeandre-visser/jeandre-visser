@@ -18,6 +18,7 @@
 #### My name is Jeandre and I am a graduate from the [Lighthouse Labs](https://www.lighthouselabs.ca/) web development program!
 
 #### Currently learning: 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.net](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ### My Tech Stack
