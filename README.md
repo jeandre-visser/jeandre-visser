@@ -47,7 +47,7 @@
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Eslint](https://img.shields.io/badge/-eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Framer](https://img.shields.io/badge/Framer%20motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
