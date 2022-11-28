@@ -15,7 +15,9 @@
 </div>
 
 
-#### My name is Jeandre and I am a graduate from the [Lighthouse Labs](https://www.lighthouselabs.ca/) web development program!
+#### My name is Jeandre and I am a:
+##### Jr. Full Stack Developer at [nutrimeals](https://nutrimeals.ca/) 
+#### Graduate from the [Lighthouse Labs](https://www.lighthouselabs.ca/) web development program
 
 ### My Tech Stack and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
